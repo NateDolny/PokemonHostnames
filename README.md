@@ -98,11 +98,13 @@ Pokémon naming scheme ideas for Worstations, Servers, Network Names, and Networ
 * Charmander | Charmeleon | Charizard
 * Squirtle | Wartortle | Blastoise
 ## Gen 2
-* Totodile |
+* Totodile | Croconaw | Feraligatr
+* Cyndaquil |  Quilava | Typhlosion
+* Chikorita | Bayleef | Meganium
 ## Gen 3
-* Treecko | 
-* Torchic | 
-* Mudkip | 
+* Treecko | Grovyle | Sceptile 
+* Torchic | Combusken | Blaziken
+* Mudkip | Marshtomp | Swampert
 
 # Items
 * Pokeball
@@ -114,9 +116,7 @@ Pokémon naming scheme ideas for Worstations, Servers, Network Names, and Networ
 * Premier
 * Cherishball
 
-
 # Misc 
 * Poké Mart 
 * Pokémon Centre 
 * Team Rocket's Hideout 
-
