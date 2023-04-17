@@ -58,6 +58,10 @@ Pokémon naming scheme ideas for Worstations, Servers, Network Names, and Networ
 * Fighting
 * Rock
 * Psychic
+* Steel
+* Normal
+* Ice
+* Bug
 
 # Pokémon Versions
 * Green
