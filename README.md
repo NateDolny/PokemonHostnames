@@ -124,3 +124,4 @@ Pokémon naming scheme ideas for Worstations, Servers, Network Names, and Networ
 * Poké Mart 
 * Pokémon Centre 
 * Team Rocket's Hideout 
+* Pokédex
