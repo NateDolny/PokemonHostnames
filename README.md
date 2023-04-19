@@ -4,10 +4,11 @@ Pokémon naming scheme ideas for Worstations, Servers, Network Names, and Networ
 
 # Pokémon Professors
 * Oak 
-* Birch 
 * Elm 
 * Ivy 
+* Birch 
 * Rowan
+* Juniper 
 
 # Pokémon Trainers
 * Blue 
